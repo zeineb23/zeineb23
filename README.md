@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zeineb Hachaichi</h1>
-<h3 align="center">👩‍💻 Passionate Software Engineering Student | Data Science Enthusiast 
-  <br/>🌐 Seeking opportunities to contribute, learn, and collaborate with like-minded individuals in the tech community. 
-  <br/>📚 Always eager to expand knowledge, embrace challenges, and innovate through code.</h3>
+<h3 align="center">👩‍💻 Passionate Software Engineering Student | Data Science Enthusiast </h3>
+
+-🌐 Seeking opportunities to contribute, learn, and collaborate with like-minded individuals in the tech community. 
+
+-📚 Always eager to expand knowledge, embrace challenges, and innovate through code.
 
 - 🌟 Exploring the realms of **data science**
 
